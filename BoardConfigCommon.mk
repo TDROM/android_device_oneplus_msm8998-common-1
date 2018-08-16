@@ -84,9 +84,6 @@ TARGET_KERNEL_CLANG_VERSION := 7.0.2
 # QCOM hardware
 BOARD_USES_QCOM_HARDWARE := true
 
-# ANT+
-BOARD_ANT_WIRELESS_DEVICE := "qualcomm-uart"
-
 # Audio
 BOARD_USES_ALSA_AUDIO := true
 
